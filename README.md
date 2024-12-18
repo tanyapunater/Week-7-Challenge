@@ -41,3 +41,7 @@
   ```
   npm test
   ```
+
+## Notes
+
+The code written is my own. Tools like copilot and chatgpt were used to debug and inspire the code flow. I did not plagiarize this code, rather checked my code using these sources.
